@@ -213,6 +213,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Email: baduniashwin@gmail.com
 
 ---
-
-⭐ **Star this repository if you find it helpful!**
-```
