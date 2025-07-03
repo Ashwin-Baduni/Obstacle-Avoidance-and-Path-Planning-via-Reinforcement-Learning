@@ -1,0 +1,18 @@
+==================================================
+ACTOR-CRITIC TRAINING
+==================================================
+Training started at: 2025-07-03 20:26:56
+Episode: 0/500, Score: 82, Avg Score: 82.00
+Episode: 50/500, Score: 97, Avg Score: 94.20
+Episode: 100/500, Score: 97, Avg Score: 97.00
+Episode: 150/500, Score: 97, Avg Score: 97.00
+Episode: 200/500, Score: 97, Avg Score: 96.90
+Episode: 250/500, Score: 97, Avg Score: 96.90
+Episode: 300/500, Score: 97, Avg Score: 97.00
+Episode: 350/500, Score: 97, Avg Score: 97.00
+Episode: 400/500, Score: 97, Avg Score: 97.00
+Episode: 450/500, Score: 97, Avg Score: 97.00
+
+Training completed at: 2025-07-03 20:29:00
+Final average score (last 50 episodes): 97.00
+Actor-Critic training completed!

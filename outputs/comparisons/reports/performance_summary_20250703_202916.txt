@@ -1,0 +1,43 @@
+============================================================
+REINFORCEMENT LEARNING ALGORITHMS PERFORMANCE REPORT
+============================================================
+Generated: 2025-07-03 20:29:20
+
+Q-LEARNING PERFORMANCE:
+------------------------------
+Total Episodes: 1000
+Final Score: 97.00
+Average Score (All): 96.56
+Average Score (Last 100): 96.73
+Best Score: 97.00
+Worst Score: 74.00
+Standard Deviation: 1.23
+Consistency (Last 100 StdDev): 0.58
+
+DQN PERFORMANCE:
+------------------------------
+Total Episodes: 500
+Final Score: 97.00
+Average Score (All): 90.82
+Average Score (Last 100): 96.58
+Best Score: 97.00
+Worst Score: -100.00
+Standard Deviation: 13.57
+Consistency (Last 100 StdDev): 0.83
+
+ACTOR-CRITIC PERFORMANCE:
+------------------------------
+Total Episodes: 500
+Final Score: 97.00
+Average Score (All): 96.26
+Average Score (Last 100): 97.00
+Best Score: 97.00
+Worst Score: 68.00
+Standard Deviation: 2.92
+Consistency (Last 100 StdDev): 0.00
+
+ALGORITHM RANKING:
+--------------------
+1. Actor-Critic: 97.00
+2. Q-Learning: 96.73
+3. DQN: 96.58

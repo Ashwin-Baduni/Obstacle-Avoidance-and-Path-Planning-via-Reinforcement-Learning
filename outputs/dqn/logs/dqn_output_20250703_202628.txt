@@ -1,0 +1,18 @@
+==================================================
+DEEP Q-NETWORK (DQN) TRAINING
+==================================================
+Training started at: 2025-07-03 20:26:28
+Episode: 0/500, Score: 56, Epsilon: 0.99, Avg Score: 56.00
+Episode: 50/500, Score: 86, Epsilon: 0.77, Avg Score: 72.60
+Episode: 100/500, Score: 95, Epsilon: 0.60, Avg Score: 88.90
+Episode: 150/500, Score: 91, Epsilon: 0.47, Avg Score: 88.40
+Episode: 200/500, Score: 93, Epsilon: 0.37, Avg Score: 95.60
+Episode: 250/500, Score: 97, Epsilon: 0.28, Avg Score: 96.40
+Episode: 300/500, Score: 96, Epsilon: 0.22, Avg Score: 95.80
+Episode: 350/500, Score: 97, Epsilon: 0.17, Avg Score: 96.40
+Episode: 400/500, Score: 97, Epsilon: 0.13, Avg Score: 96.50
+Episode: 450/500, Score: 97, Epsilon: 0.10, Avg Score: 96.40
+
+Training completed at: 2025-07-03 20:26:56
+Final average score (last 50 episodes): 96.66
+DQN training completed!
