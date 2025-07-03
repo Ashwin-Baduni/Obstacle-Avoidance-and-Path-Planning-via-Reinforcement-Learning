@@ -1,4 +1,4 @@
-# Reinforcement Learning Algorithms Suite
+# Obstacle Avoidance and Path Planning via Reinforcement Learning
 
 A comprehensive implementation and comparison of three fundamental reinforcement learning algorithms: Q-Learning, Deep Q-Network (DQN), and Actor-Critic, tested on a GridWorld environment.
 
